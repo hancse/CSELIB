@@ -22,7 +22,6 @@ Some links point to <i>private</i> repositories from projects where the HAN-CSE 
 <h2>SolTrack has been used by:</h2>
 <ul>
   <li><a href="https://www.han.nl/international/english/research/sustainable-electrical-energy/">HAN University of Applied Sciences</a>, The Netherlands</li>
-  <li><a href="http://www.suncycle.nl/">SunCycle</a></li>
 </ul>
 
 
