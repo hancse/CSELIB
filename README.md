@@ -19,15 +19,15 @@ Some links point to <i>private</i> repositories from projects where the HAN-CSE 
 </ul>
 
 <br>
-<h2>SolTrack has been used by:</h2>
+<h2> has been used by:</h2>
 <ul>
-  <li><a href="https://www.han.nl/international/english/research/sustainable-electrical-energy/">HAN University of Applied Sciences</a>, The Netherlands</li>
+  <li><a href="https://www.han.nl/onderzoek/kennismaken/technologie-en-samenleving/lectoraat/meet-en-regeltechniek/">HAN Meet- en Regeltechniek</a>, The Netherlands</li>
 </ul>
 
 
 <br>
 <h2>Contact</h2>
-You can contact the authors (preferably through email) via <a href="http://han.vandersluys.nl/en/">this page</a>.
+You can contact the authors (preferably through email) via <a href="https://www.han.nl/onderzoek/kennismaken/technologie-en-samenleving/lectoraat/meet-en-regeltechniek/contact/">this page</a>.
 
 <br>
 
