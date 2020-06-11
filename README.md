@@ -9,7 +9,7 @@ The software used and developed in the group is centered around two themes in th
 
 In the folders with these names you can find links to the software repositories applied and developed in the HAN-CSE group. Some links point to <i>public</i> repositories, forked from other sources. These repositories can be used under the conditions of the original authors.
 
-Other links point to <i>public</i> repositories developed and maintained at HAN University. These repositories can be used under the conditions of the included licence files.
+Other links point to <i>public</i> repositories developed and maintained at HAN University. These repositories can be used under the conditions of the included license files.
 
 Some links point to <i>private</i> repositories from projects where the HAN-CSE group is or has been involved as a research partner. For access to these repositories, ask permission via the e-mail contact below.
 SolTrack has been developed by <a href="http://han.vandersluys.nl/en/">Marc van der Sluys</a>,
