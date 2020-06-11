@@ -6,6 +6,4 @@
 * [PowerPlanner](https://github.com/hancse/PowerPlanner). Control software for the pendulum setup in Room R26 B1.66.
 * [han_screen](https://github.com/hancse/han_screen). Comparison of solar tracker from Plataforma Solar de Almeria (PSA) and NREL solar tracker (SPA).
 * [HAN-Smart-Electric-Charging-Station](https://github.com/hancse/HAN-Smart-Electric-Charging-Station). Control software for remote operation of Keithley K2601A Source Meter. Automated measurement of I-V curves of PV cells.
-* [House_Models](https://github.com/hancse/House_Models). Models for heat demand of urban row houses by HAN-CSE.
-* [Heatpump_Models](https://github.com/hancse/Heatpump_Models). Modelling characteristic behaviour of heat pumps by HAN-CSE.
-* [Models](https://github.com/hancse/Models). Archived models by HAN-CSE.
+
