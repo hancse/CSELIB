@@ -12,7 +12,6 @@ In the folders with these names you can find links to the software repositories 
 Other links point to <i>public</i> repositories developed and maintained at HAN University. These repositories can be used under the conditions of the included license files.
 
 Some links point to <i>private</i> repositories from projects where the HAN-CSE group is or has been involved as a research partner. For access to these repositories, ask permission via the e-mail contact below.
-
 <br>
 <h2>Contact</h2>
 You can contact the authors (preferably through email) via <a href="https://www.han.nl/onderzoek/kennismaken/technologie-en-samenleving/lectoraat/meet-en-regeltechniek/contact/">this page</a>.
