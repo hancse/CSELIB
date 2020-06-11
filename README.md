@@ -1,7 +1,7 @@
 # CSELIB
 ## software library index for HAN Controls Systems Engineering 
 
-<b>CSELIB</b> is the entry point to the software repositories from the Control Systems Engineering group at HAN University of Applied Sciences, Arnhem, NL
+<b>CSELIB</b> is the entry point to the software repositories from the Control Systems Engineering (CSE) research group at HAN University of Applied Sciences, Arnhem, NL
 The software used and developed in the group is centered around two themes in the energy transition:
 
 * Built Enviroment
