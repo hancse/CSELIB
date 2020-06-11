@@ -23,23 +23,6 @@ The code is based on the astronomical Fortran library
 and can be used, modified and distributed under the conditions of version 3 of the 
 <a href="http://www.gnu.org/licenses/lgpl.html">GNU Lesser General Public Licence</a>.
 
-
-
-
-<br>
-<h2>Description, speed and accuracy</h2>
-
-See also the <a href="http://han.vandersluys.nl/en/Publications.html"><b>poster and conference proceedings</b></a> we presented on CPV-11 in April 2015.
-
-
-
-
-
-
-
-
-
-
 <br>
 <h2>SolTrack pages</h2>
 <ul>
