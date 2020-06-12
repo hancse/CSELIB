@@ -16,7 +16,6 @@
 ## MMIP 4 projects
 * [HT-HeatPump](https://github.com/hancse/HT-HeatPump). Modelling software for development of a high-temperature heat pump in MMIP 4.
  * [OSEM](https://github.com/hancse/OSEM). Software for the MMIP4 Open Source Controller project.
- 
  * [MMIP-HP-configurator-PythonCode](https://github.com/MarcvdSluys/MMIP-HP-configurator-PythonCode). Software for the development of a configurator for domestic installations in MMIP 4. 
  * [MMIP-HP-configurator-docs](https://github.com/MarcvdSluys/MMIP-HP-configurator-docs). Documentation about making and maintaining Python packages.
  * [MMIP-HP-configurator-theory](https://github.com/MarcvdSluys/MMIP-HP-configurator-theory). Theory for development of configurator elements (heat pump).
