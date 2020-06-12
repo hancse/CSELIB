@@ -4,7 +4,7 @@
 <b>CSELIB</b> is the entry point to the software repositories from the Control Systems Engineering (CSE) research group at HAN University of Applied Sciences, Arnhem, NL
 The software used and developed in the group is centered around two themes in the energy transition:
 
-* Built Enviroment
+* Built Environment
 * Smart Energy Grids
 
 In the folders with these names you can find links to the software repositories applied and developed in the HAN-CSE group. Some links point to <i>public</i> repositories, forked from other sources. These repositories can be used under the conditions of the original authors.
