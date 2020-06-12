@@ -2,7 +2,7 @@
 
  
  * [pvlib-python](https://github.com/hancse/pvlib-python). Forked from pvlib/pvlib-python](https://github.com/pvliv/pvlib-python). Documentation: [readthedocs](http://pvlib-python.readthedocs.io/en/stable/)
- * [psa-spa](https://github.com/hancse/psa-spa). Comparison of solar tracker from Plataforma Solar de Almeria (PSA) and NREL solar tracker (SPA).
+ * [psa-spa](https://github.com/hancse/psa-spa). Comparison of solar trackers from Plataforma Solar de Almeria (PSA) and NREL (SPA).
  * [k2601](https://github.com/hancse/k2601). Control software for remote operation of Keithley K2601A Source Meter. Automated measurement of I-V curves of PV cells.
  * [House_Models](https://github.com/hancse/House_Models). Models for heat demand of urban row houses by HAN-CSE.
  * [Heatpump_Models](https://github.com/hancse/Heatpump_Models). Modelling characteristic behaviour of heat pumps by HAN-CSE.
