@@ -5,3 +5,5 @@
 * [RegressionExamples](https://github.com/hancse/RegressionExamples). Examples for performing linear regression in Python.
 * [homemade-machine-learning](https://github.com/hancse/homemade-machine-learning). Python notebooks with machine learning examples.
 * [simupy](https://github.com/hancse/simupy). Simulink-like dynamical modelling in Python
+* [SolTrack](https://github.com/MarcvdSluys/SolTrack). a free, fast and accurate C/C++ routine to compute the position of the Sun. 
+* [SolarEnergy](https://github.com/MarcvdSluys/SolarEnergy). A Python module to do simple modelling in the field of solar energy. 
