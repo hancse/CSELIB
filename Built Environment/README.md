@@ -8,9 +8,9 @@
  * [Heatpump_Models](https://github.com/hancse/Heatpump_Models). Modelling characteristic behaviour of heat pumps by HAN-CSE.
  * [Models](https://github.com/hancse/Models). Archived models by HAN-CSE.
 ## MMIP 4 projects
-* [HT-HeatPump](https://github.com/hancse/HT-HeatPump). Modelling software for the development of a high-temperature heat pump.
+* [HT-HeatPump](https://github.com/hancse/HT-HeatPump). Modelling software for development of a high-temperature heat pump in MMIP 4.
  * [OSEM](https://github.com/hancse/OSEM). Software for the MMIP4 Open Source Controller project.
  
- * [MMIP-HP-configurator-PythonCode](https://github.com/MarcvdSluys/MMIP-HP-configurator-PythonCode)
+ * [MMIP-HP-configurator-PythonCode](https://github.com/MarcvdSluys/MMIP-HP-configurator-PythonCode). Software for the development of a configurator for domestic installations in MMIP 4. 
  * [MMIP-HP-configurator-docs](https://github.com/MarcvdSluys/MMIP-HP-configurator-docs)
  * [MMIP-HP-configurator-theory](https://github.com/MarcvdSluys/MMIP-HP-configurator-theory)
