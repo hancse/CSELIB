@@ -19,3 +19,6 @@
  * [MMIP-HP-configurator-PythonCode](https://github.com/MarcvdSluys/MMIP-HP-configurator-PythonCode). Software for the development of a configurator for domestic installations in MMIP 4. 
  * [MMIP-HP-configurator-docs](https://github.com/MarcvdSluys/MMIP-HP-configurator-docs). Documentation about making and maintaining Python packages.
  * [MMIP-HP-configurator-theory](https://github.com/MarcvdSluys/MMIP-HP-configurator-theory). Theory for development of configurator elements (heat pump).
+ 
+ ## Ecovat
+ * [ecovat-linprog](https://github.com/hancse/ecovat-linprog). Modelling software for the Ecovat project. Contains Linear programming suite in MATLAB.
