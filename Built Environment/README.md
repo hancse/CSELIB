@@ -21,6 +21,7 @@
  * [MMIP-HP-configurator-theory](https://github.com/MarcvdSluys/MMIP-HP-configurator-theory). Theory for development of configurator elements (heat pump).
  
  ## Ecovat
+ * [house-heat-flow](https://github.com/hancse/house-heat-flow). Modelling of heat demand of domestic buildings for Ecovat project.
  * [ecovat-linprog](https://github.com/hancse/ecovat-linprog). Modelling software for the Ecovat project. Contains Linear programming suite in MATLAB.
  * [shape-file](https://github.com/hancse/shape-file). MATLAB ideas for working with \*.shp files.
  * [model_test](https://github.com/hancse/model_test). Try-out repository NT.
