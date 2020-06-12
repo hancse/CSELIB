@@ -2,12 +2,16 @@
 
  
  * [pvlib-python](https://github.com/hancse/pvlib-python). Forked from pvlib/pvlib-python](https://github.com/pvliv/pvlib-python). Documentation: [readthedocs](http://pvlib-python.readthedocs.io/en/stable/)
- * [psa-spa](https://github.com/hancse/psa-spa). Comparison of solar trackers from Plataforma Solar de Almeria (PSA) and NREL (SPA).
- * [k2601](https://github.com/hancse/k2601). Control software for remote operation of Keithley K2601A Source Meter. Automated measurement of I-V curves of PV cells.
  * [House_Models](https://github.com/hancse/House_Models). Models for heat demand of urban row houses by HAN-CSE.
  * [Heatpump_Models](https://github.com/hancse/Heatpump_Models). Modelling characteristic behaviour of heat pumps by HAN-CSE.
  * [Models](https://github.com/hancse/Models). Archived models by HAN-CSE.
  * [HPLaunch](https://github.com/hancse/HPLaunch). Archived models from HP-Launch project by HAN-CSE.
+ 
+ ## Contributions by HAN Sustainable Energy Research Group
+* [SolTrack](https://github.com/MarcvdSluys/SolTrack). a free, fast and accurate C/C++ routine to compute the position of the Sun. 
+* [SolarEnergy](https://github.com/MarcvdSluys/SolarEnergy). A Python module to do simple modelling in the field of solar energy.
+* [psa-spa](https://github.com/hancse/psa-spa). Comparison of solar trackers from Plataforma Solar de Almeria (PSA) and NREL (SPA).
+ * [k2601](https://github.com/hancse/k2601). Control software for remote operation of Keithley K2601A Source Meter. Automated measurement of I-V curves of PV cells.
  
 ## MMIP 4 projects
 * [HT-HeatPump](https://github.com/hancse/HT-HeatPump). Modelling software for development of a high-temperature heat pump in MMIP 4.
