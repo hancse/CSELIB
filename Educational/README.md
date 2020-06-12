@@ -4,7 +4,4 @@
 * [QModMaster045](https://github.com/hancse/QModMaster045). Modbus control software with GUI written in Qt (C++)
 * [RegressionExamples](https://github.com/hancse/RegressionExamples). Examples for performing linear regression in Python.
 * [homemade-machine-learning](https://github.com/hancse/homemade-machine-learning). Python notebooks with machine learning examples.
-* [simupy](https://github.com/hancse/simupy). Simulink-like dynamical modelling in Python
-## Contributions by HAN Sustainable Energy Research Group
-* [SolTrack](https://github.com/MarcvdSluys/SolTrack). a free, fast and accurate C/C++ routine to compute the position of the Sun. 
-* [SolarEnergy](https://github.com/MarcvdSluys/SolarEnergy). A Python module to do simple modelling in the field of solar energy. 
+* [simupy](https://github.com/hancse/simupy). Simulink-like dynamical modelling in Python. 
