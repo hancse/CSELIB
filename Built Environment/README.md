@@ -7,6 +7,8 @@
  * [House_Models](https://github.com/hancse/House_Models). Models for heat demand of urban row houses by HAN-CSE.
  * [Heatpump_Models](https://github.com/hancse/Heatpump_Models). Modelling characteristic behaviour of heat pumps by HAN-CSE.
  * [Models](https://github.com/hancse/Models). Archived models by HAN-CSE.
+ * [HPLaunch](https://github.com/hancse/HPLaunch). Archived models from HP-Launch project by HAN-CSE.
+ 
 ## MMIP 4 projects
 * [HT-HeatPump](https://github.com/hancse/HT-HeatPump). Modelling software for development of a high-temperature heat pump in MMIP 4.
  * [OSEM](https://github.com/hancse/OSEM). Software for the MMIP4 Open Source Controller project.
