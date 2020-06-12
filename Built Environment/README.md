@@ -2,8 +2,6 @@
 
  * [HT-HeatPump](https://github.com/hancse/HT-HeatPump). Modelling software for the development of a high-temperature heat pump (MMIP4).
  * [pvlib-python](https://github.com/hancse/pvlib-python). Forked from pvlib/pvlib-python](https://github.com/pvliv/pvlib-python). Documentation: [readthedocs](http://pvlib-python.readthedocs.io/en/stable/)
-
- * [PendulumPlot](https://github.com/hancse/PendulumPlot). Control software for the pendulum setup in Room R26 B1.66.
  * [psa-spa](https://github.com/hancse/psa-spa). Comparison of solar tracker from Plataforma Solar de Almeria (PSA) and NREL solar tracker (SPA).
  * [k2601](https://github.com/hancse/k2601). Control software for remote operation of Keithley K2601A Source Meter. Automated measurement of I-V curves of PV cells.
  * [House_Models](https://github.com/hancse/House_Models). Models for heat demand of urban row houses by HAN-CSE.
