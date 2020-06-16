@@ -6,4 +6,4 @@
 * [PowerPlanner](https://github.com/hancse/PowerPlanner). Archive with control software for the CSGriP project in Delphi (Pascal).
 * [han_screen](https://github.com/hancse/han_screen). Archive with software for remote screen operation.
 * [HAN-Smart-Electric-Charging-Station](https://github.com/hancse/HAN-Smart-Electric-Charging-Station). Control software for Smart Electric Vehicle Charging Station.
-
+* [powermeter](https://github.com/hancse/powermeter) Software demonstrating reading and display of smart electricity meters in a microgrid, written in Qt (C++)
