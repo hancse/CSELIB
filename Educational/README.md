@@ -6,3 +6,4 @@
 * [RegressionExamples](https://github.com/hancse/RegressionExamples). Examples for performing linear regression in Python.
 * [homemade-machine-learning](https://github.com/hancse/homemade-machine-learning). Python notebooks with machine learning examples.
 * [simupy](https://github.com/hancse/simupy). Simulink-like dynamical modelling in Python. 
+* [MATLABLib](https://github.com/hancse/MATLABLib). Useful MATLAB functions.
