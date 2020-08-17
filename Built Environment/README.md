@@ -26,3 +26,4 @@
  * [load-test](https://github.com/hancse/load-test) Load flow calculations for Ecovat project.
  * [shape-file](https://github.com/hancse/shape-file). MATLAB ideas for working with \*.shp files.
  * [model_test](https://github.com/hancse/model_test). Try-out repository NT.
+ * [longshortterm](https://github.com/hancse/longshortterm). LSTM calculations.
