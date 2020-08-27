@@ -8,13 +8,14 @@
  * [HPLaunch](https://github.com/hancse/HPLaunch). Archived models from HP-Launch project by HAN-CSE.
  
  ## Contributions by HAN Sustainable Energy Research Group
-* [SolTrack](https://github.com/MarcvdSluys/SolTrack). a free, fast and accurate C/C++ routine to compute the position of the Sun. 
-* [SolarEnergy](https://github.com/MarcvdSluys/SolarEnergy). A Python module to do simple modelling in the field of solar energy.
-* [psa-spa](https://github.com/hancse/psa-spa). Comparison of solar trackers from Plataforma Solar de Almeria (PSA) and NREL (SPA).
+ * [SolTrack](https://github.com/MarcvdSluys/SolTrack). a free, fast and accurate C/C++ routine to compute the position of the Sun. 
+ * [SolarEnergy](https://github.com/MarcvdSluys/SolarEnergy). A Python module to do simple modelling in the field of solar energy.
+ * [psa-spa](https://github.com/hancse/psa-spa). Comparison of solar trackers from Plataforma Solar de Almeria (PSA) and NREL (SPA).
  * [k2601](https://github.com/hancse/k2601). Control software for remote operation of Keithley K2601A Source Meter. Automated measurement of I-V curves of PV cells.
+ * [Meteoserver](https://github.com/MarcvdSluys/Meteoserver). A Python module to obtain and read Dutch weather data from Meteoserver.nl. 
  
 ## MMIP 4 projects
-* [HT-HeatPump](https://github.com/hancse/HT-HeatPump). Modelling software for development of a high-temperature heat pump in MMIP 4.
+ * [HT-HeatPump](https://github.com/hancse/HT-HeatPump). Modelling software for development of a high-temperature heat pump in MMIP 4.
  * [OSEM](https://github.com/hancse/OSEM). Software for the MMIP4 Open Source Controller project.
  * [MMIP-HP-configurator-PythonCode](https://github.com/MarcvdSluys/MMIP-HP-configurator-PythonCode). Software for the development of a configurator for domestic installations in MMIP 4. 
  * [MMIP-HP-configurator-docs](https://github.com/MarcvdSluys/MMIP-HP-configurator-docs). Documentation about making and maintaining Python packages.
